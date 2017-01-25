@@ -91,7 +91,7 @@ For k-nearest neighbor:
 
 
 ##Image classifiers
-[TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) uses a neural network to train classifier with seeded images(~100)
+[TensorFlow for Poets](https://www.tensorflow.org/) uses a neural network to train classifier with seeded images(~100)
 
 - deep learning to determine features from code instead of hard coding (this example used pixels)
 - the more diversity and quantity of images increases the accuracy of prediction
