@@ -34,7 +34,7 @@ A classifier crams data (trait) into the sausage machine that assigns it a label
 	this is called classified learning 
 
 [SciKit Learn](http://scikit-learn.org/stable/install.html) provides many datasets to play with that are easy to import
-[with Anaconda dependancies](https://www.continuum.io/downloads)
+[Download Anaconda to use on your computer](https://www.continuum.io/downloads)
 
 
 
