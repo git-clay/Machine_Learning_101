@@ -12,7 +12,7 @@
 ## How would you write code that returns if an image is an apple or orange?
 
 ![](http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg)
-![](http://globe-views.com/dcim/dreams/orange/orange-05.jpg)
+![](http://media.istockphoto.com/photos/orange-picture-id185284489?k=6&m=185284489&s=170667a&w=0&h=TvhyH04fVa5kQ_LdU4CCwytvBRDxPhmKC8KZXa2YYsU=)
 - count color pixels? 
 - map outline points and compares to hard coded image maps?
 
@@ -60,10 +60,14 @@ and these are best as booleans (0 for bumpy, 1 for smooth)
 
 
 ##Types of classifiers
-- ![Artificial Neural Network](https://www.tutorialspoint.com/artificial_intelligence/images/atypical_ann.jpg)
-- ![Support Vector Machine](http://www.alivelearn.net/wp-content/uploads/2009/10/svm_linear_2class.png)
-- ![Decision Tree](https://www.tutorialspoint.com/data_mining/images/dm_decision_tree.jpg)
-- ![k-nearest neighbors](http://www.saedsayad.com/images/KNN_example_1.png)
+####Artificial Neural Network
+![Artificial Neural Network](https://www.tutorialspoint.com/artificial_intelligence/images/atypical_ann.jpg)
+####Support Vector Machin
+![Support Vector Machine](http://www.alivelearn.net/wp-content/uploads/2009/10/svm_linear_2class.png)
+####Decision Tree
+![Decision Tree](https://www.tutorialspoint.com/data_mining/images/dm_decision_tree.jpg)
+####k-nearest neighbors
+![k-nearest neighbors](http://www.saedsayad.com/images/KNN_example_1.png)
 
 For k-nearest neighbor:
 -Euclidean Distance (similar to a^2+b^2=c^2)
