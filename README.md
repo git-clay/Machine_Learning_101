@@ -11,8 +11,8 @@
 
 ## How would you write code that returns if an image is an apple or orange?
 
-[![](http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg)]
-[![](https://goo.gl/images/glfCKa)]
+![](http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg)
+![](http://globe-views.com/dcim/dreams/orange/orange-05.jpg)
 - count color pixels? 
 - map outline points and compares to hard coded image maps?
 
@@ -60,16 +60,16 @@ and these are best as booleans (0 for bumpy, 1 for smooth)
 
 
 ##Types of classifiers
-- ![Artificial Neural Network](https://goo.gl/images/D4EC4r)
-- ![Support Vector Machine](https://goo.gl/images/H1ghsj)
-- ![Decision Tree](https://goo.gl/images/27IDKR)
-- ![k-nearest neighbors](https://goo.gl/images/P35wev)
+- ![Artificial Neural Network](https://www.tutorialspoint.com/artificial_intelligence/images/atypical_ann.jpg)
+- ![Support Vector Machine](http://www.alivelearn.net/wp-content/uploads/2009/10/svm_linear_2class.png)
+- ![Decision Tree](https://www.tutorialspoint.com/data_mining/images/dm_decision_tree.jpg)
+- ![k-nearest neighbors](http://www.saedsayad.com/images/KNN_example_1.png)
 
 For k-nearest neighbor:
 -Euclidean Distance (similar to a^2+b^2=c^2)
 -works in more than 2d >> 3d,4d... mind melting in 5d+
 
-![](http://www.tenthdimension.com/medialinks.php)
+[Imagining the 10th dimension](http://www.tenthdimension.com/medialinks.php)
 
 
 ##Potential Applications of Machine learning
@@ -87,11 +87,11 @@ For k-nearest neighbor:
 
 
 ##Image classifiers
-[TensorFlow for Poets](https://goo.gl/QTwZ3v) uses a neural network to train classifier with seeded images(~100)
+[TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0) uses a neural network to train classifier with seeded images(~100)
 
 - deep learning to determine features from code instead of hard coding (this example used pixels)
--the more diversity and quantity of images increases the accuracy of prediction
-- ####Fun Fact:#### Google's Inception image classifier trained on 1.2 million images took 2 weeks to execute
+- the more diversity and quantity of images increases the accuracy of prediction
+- *Fun Fact:* Google's Inception image classifier trained on 1.2 million images took 2 weeks to execute
 
 
 [handwritten number machine learning](https://www.youtube.com/watch?v=Gj0iyo265bc)
