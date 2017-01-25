@@ -11,8 +11,8 @@
 
 ## How would you write code that returns if an image is an apple or orange?
 
-![](http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg)
-![](https://goo.gl/images/glfCKa)
+[![](http://juliandance.org/wp-content/uploads/2016/01/RedApple.jpg)]
+[![](https://goo.gl/images/glfCKa)]
 - count color pixels? 
 - map outline points and compares to hard coded image maps?
 
@@ -72,7 +72,12 @@ For k-nearest neighbor:
 ![](http://www.tenthdimension.com/medialinks.php)
 
 
-
+##Potential Applications of Machine learning
+- Education
+- Human Resources
+- Finance
+- Psychology
+- Art / Music
 
 ###[Playground!](http://playground.tensorflow.org/?utm_campaign=ai_series_pipeline_051116&utm_source=gdev&utm_medium=yt-desc#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.96356&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">playground)
 
